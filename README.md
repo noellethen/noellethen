@@ -1,4 +1,11 @@
-## Hi there 👋
+## hi, i'm noelle 🥰
+
+i'm a year 1 computer engineering undergraduate at the National University of Singapore (NUS) interested in software and embedded engineering! additionally, i love playing games and am exploring game development with Unity c:
+
+### 🌱 currently learning:
+* DSA with C++
+* bare-metal programming (with ATmega328P)
+* FPGA programming
 
 <!--
 **noellethen/noellethen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
