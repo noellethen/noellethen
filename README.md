@@ -1,6 +1,6 @@
 ## hi, i'm noelle 🥰
 
-i'm a year 1 computer engineering undergraduate at the National University of Singapore (NUS) interested in embedded and software engineering! additionally, i love playing games and am exploring game development with Unity c:
+i'm a year 1 computer engineering undergraduate at the National University of Singapore (NUS) interested in embedded and software engineering! additionally, i love playing games and am exploring game development amongst other projects c:
 
 ### 🌱 currently learning:
 * DSA with C++
