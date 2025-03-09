@@ -5,7 +5,7 @@ i'm a year 1 computer engineering undergraduate at the National University of Si
 ### 🌱 currently learning:
 * DSA with C++
 * bare-metal programming (with ATmega328P)
-* FPGA programming
+* FPGA programming (with the Basys 3)
 
 <!--
 **noellethen/noellethen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
