@@ -1,8 +1,9 @@
 ## hi, i'm noelle 🥰
 
-i'm a computer engineering undergraduate at the National University of Singapore (NUS) interested in embedded and software engineering! additionally, i love playing games and am exploring web3 development amongst other projects c:
+i'm a computer engineering undergraduate at the National University of Singapore (NUS) interested in embedded and software engineering! additionally, i love playing games and am exploring vr development amongst other projects c:
 
 ### 🌱 currently learning:
+* vr development with unity
 * solidity
 
 <!--
